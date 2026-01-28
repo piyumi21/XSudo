@@ -63,13 +63,19 @@ pip install -r requirements.txt
 ```bash
 python XSudo.py
 ```
-## Support
+## ❤️ Support
+
 Kalau tools ini berguna dan mau support pengembang:
 
-# Trakteer
-https://trakteer.id/ruyynn/tip
+<p align="center">
+  <a href="https://trakteer.id/ruyynn/tip" target="_blank">
+    <img src="https://img.shields.io/badge/Trakteer-Support-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  </a>
+  <a href="https://saweria.co/Ruyynn" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-Donate-red?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
 
-# Saweria
-https://saweria.co/Ruyynn
-
-Star repo ini juga sangat membantu ⭐
+<p align="center">
+  ⭐ Star repo ini juga sangat membantu ⭐
+</p>
