@@ -6,10 +6,8 @@
   <a href="https://github.com/Ruyynn">
     <img src="https://komarev.com/ghpvc/?username=Ruyynn&label=Profile+Views&color=22d3ee&style=plastic" />
   </a>
-  <a href="https://github.com/Ruyynn/XSudo">
-    <img src="https://img.shields.io/github/stars/Ruyynn/XSudo?style=for-the-badge&color=22d3ee" alt="GitHub stars" />
-  </a>
-</p>
+
+
 
 
 # GUARDIAN SHEILD
